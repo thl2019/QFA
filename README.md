@@ -20,8 +20,12 @@ References
 
 [5] T. Chen, Y. Sun, and T.-H. Li (2021), "A semi-parametric estimation method for the quantile spectrum with an application to earthquake classification using convolutional neural network", Computational Statistics and Data Analysis, 153, 107069. https://doi.org/10.1016/j.csda.2020.107069
 
-[6] T.-H. Li (2022), "Quantile Fourier transform, quantile series, and nonparametric estimation of quantile spectra," preprint. https://doi.org/10.48550/arXiv.2211.05844
+[6] T.-H. Li (2023), "Quantile-frequency analysis and deep learning for signal classification," Journal of Nondestructive Evaluation, 42, 40. https://doi.org/10.1007/s10921-023-00952-y
 
-[7] T.-H. Li (2023), "Quantile-frequency analysis and deep learning for signal classification," Journal of Nondestructive Evaluation, 42, 40. https://doi.org/10.1007/s10921-023-00952-y
+[7] C. Jiménez-Varón, Y. Sun, and T.-H. Li (2024), "A semi-parametric estimation method for quantile coherence with an application to bivariate financial time series clustering," Econometrics and Statistics, https://doi.org/10.1016/j.ecosta.2024.11.002
+
+[8] T.-H. Li (2025), "Quantile Fourier transform, quantile series, and nonparametric estimation of quantile spectra," Communications in Statistics - Simulation and Computation, https://doi.org/10.1080/03610918.2025.2509820
+
+[9] T.-H. Li (2025), "Spline autoregression method for estimation of quantile spectrum," Journal of Computational and Graphical Statistics, https://doi.org/10.1080/10618600.2025.2549452, available at https://www.tandfonline.com/eprint/PK8TCERG83KHH9YJABJ6/full?target=10.1080/10618600.2025.2549452
 
 For further inqueries, please contact Ta-Hsin Li (thl024@outlook.com)
