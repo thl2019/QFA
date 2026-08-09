@@ -30,7 +30,7 @@ References
 
 [10] T.-H. Li and N. Megiddo (2026), "Spline quantile regression," Journal of Statistical Theory and Practice, https://doi.org/10.1007/s42519-026-00545-8
 
-[11] T.-H. Li (2026), "Spline quantile regression with cubic and liner smoothing splines," arXiv:2603.22408, https://doi.org/10.48550/arXiv.2603.22408
+[11] T.-H. Li (2026), "Spline quantile regression with cubic and linear smoothing splines," arXiv:2603.22408, https://doi.org/10.48550/arXiv.2603.22408
 
 For further inqueries, please contact Ta-Hsin Li (thl024@outlook.com)
 
