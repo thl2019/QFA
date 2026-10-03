@@ -51,5 +51,5 @@ Preprints of the following articles can be found in the references/ directory.
 
 ## Contact
 
-For further inqueries, please contact Ta-Hsin Li (thl024@outlook.com)
+For further inqueries, please contact Ta-Hsin Li (email address: thl024@outlook.com).
 
