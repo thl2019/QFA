@@ -12,7 +12,7 @@ Spline quantile regression, or SQR, is a method of estimating the coefficients i
 
 - This repo contains a Python code (QFA-DL-code.zip) for classification of time series using QFA and STQFA combined with Deep Learning (MLP and CNN) [5][6].
 
-- This repo contains in the data/NDE/ directory the csv files of pre-calculated spectra used in [6] for classification of the nondestructive evaluation (NDE) signals available at https://www.math.umd.edu/~bnk/DATA/. 
+- This repo contains in the data/NDE/ directory the csv files of pre-calculated quantile and traditional spectra used in [6] for classification of the nondestructive evaluation (NDE) signals available at https://www.math.umd.edu/~bnk/DATA/. 
   - quantile periodograms (bond_disbond_qper_for_cnn.zip)
   - short-time quantile periodograms (bond_disbond_stqfa_for_cnn_15x45x29.zip)
   - traditional periodograms (bond_disbond_per_for_cnn.zip)
