@@ -8,15 +8,17 @@ Spline quantile regression, or SQR, is a method of estimating the coefficients i
 
 - This repo contains an installable R package qfa_x.x.tar.gz and the associated manual qfa_x.x.pdf.
 
-- This repo contains an R code (qfa_fpca_code.txt) for functional principal component analysis (FPCA) of quantile periodograms, and classification of time series using LDA, QDA, and SVM based on QFA-FPCA features [4]
+- This repo contains an R code (qfa_fpca_code.txt) for functional principal component analysis (FPCA) of quantile periodograms, and classification of time series using LDA, QDA, and SVM based on QFA-FPCA features [4].
 
 - This repo contains a Python code (QFA-DL-code.zip) for classification of time series using QFA and STQFA combined with Deep Learning (MLP and CNN) [5][6].
 
-- This repo contains in the data/NDE directory the csv files pre-calculated spectra used in recent experiments [6] for classification of the nondestructive evaluation (NDE) signals available at https://www.math.umd.edu/~bnk/DATA/. 
+- This repo contains in the data/NDE/ directory the csv files of pre-calculated spectra used in [6] for classification of the nondestructive evaluation (NDE) signals available at https://www.math.umd.edu/~bnk/DATA/. 
   - quantile periodograms (bond_disbond_qper_for_cnn.zip)
   - short-time quantile periodograms (bond_disbond_stqfa_for_cnn_15x45x29.zip)
   - traditional periodograms (bond_disbond_per_for_cnn.zip)
-  - traditional spectrograms (bond_disbond_stft_for_cnn_15x29.zip) 
+  - traditional spectrograms (bond_disbond_stft_for_cnn_15x29.zip)
+  
+- Additional data files are also available in the data/ directory.
 
 ## References
 
