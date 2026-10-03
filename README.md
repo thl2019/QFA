@@ -6,7 +6,7 @@ Spline quantile regression, or SQR, is a method of estimating the coefficients i
 
 ## Content
 
-- This repo contains an installable R package qfa_x.x.tar.gz and the associated manual qfa_x.x.pdf.
+- This repo contains an installable R package qfa_x.x.tar.gz and the associated manual qfa_x.x.pdf. The 'qfa' package is also available at https://cran.r-project.org/.
 
 - This repo contains an R code (qfa_fpca_code.txt) for functional principal component analysis (FPCA) of quantile periodograms, and classification of time series using LDA, QDA, and SVM based on QFA-FPCA features [4].
 
