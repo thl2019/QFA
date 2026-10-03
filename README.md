@@ -1,16 +1,18 @@
-QFA, or quantile-frequency analysis, is a nonlinear spectral analysis method for time-series data [1][2][3][8][9]. Based on quantile periodograms computed from trigonometric quantile regression, QFA, together with its extension called short-time QFA (STQFA), is able to provide a richer view of time-series data than traditional power spectra and spectrograms. 
+# A Quantile-Frequency Analysis (QFA) and Spline Quantile Regression (SQR) Toolkit
 
-SQR, or spline quantile regression, is a method of estimating the coefficients in linear quantile regression as smooth functions of the quantile level [10][11].
+QFA, or quantile-frequency analysis, is a nonlinear spectral analysis method for time-series data [1][2][3][8][9]. Based on quantile periodograms computed from trigonometric quantile regression, QFA, together with its extension called short-time QFA (STQFA), is able to provide a richer view of time-series data than traditional power spectra and spectrograms.*
 
-This repo contains an installable R package qfa_x.x.tar.gz and the associated manual qfa_x.x.pdf.
+SQR, or spline quantile regression, is a method of estimating the coefficients in linear quantile regression as smooth functions of the quantile level [10][11].*
 
-This repo contains an R code (qfa_fpca_code.txt) for functional principal component analysis (FPCA) of quantile periodograms, and classification of time series using LDA, QDA, and SVM based on QFA-FPCA features [4]
+- This repo contains an installable R package qfa_x.x.tar.gz and the associated manual qfa_x.x.pdf.
 
-This repo contains a Python code (QFA-DL-code.zip) for classification of time series using QFA and STQFA combined with Deep Learning (MLP and CNN) [5][6].
+- This repo contains an R code (qfa_fpca_code.txt) for functional principal component analysis (FPCA) of quantile periodograms, and classification of time series using LDA, QDA, and SVM based on QFA-FPCA features [4]
 
-This repo contains pre-calculated quantile periodograms (bond_disbond_qper_for_cnn.zip) and short-time quantile periodogram (bond_disbond_stqfa_for_cnn_15x45x29.zip) for classification of a set of nondestructive evaluation (NDE) signals available at https://www.math.umd.edu/~bnk/DATA/. It also contains traditional periodograms (bond_disbond_per_for_cnn.zip) and spectrograms (bond_disbond_stft_for_cnn_15x29.zip) of the NDE signals. These data were used in recent experiments [6].
+- This repo contains a Python code (QFA-DL-code.zip) for classification of time series using QFA and STQFA combined with Deep Learning (MLP and CNN) [5][6].
 
-References
+- This repo contains pre-calculated quantile periodograms (bond_disbond_qper_for_cnn.zip) and short-time quantile periodogram (bond_disbond_stqfa_for_cnn_15x45x29.zip) for classification of a set of nondestructive evaluation (NDE) signals available at https://www.math.umd.edu/~bnk/DATA/. It also contains traditional periodograms (bond_disbond_per_for_cnn.zip) and spectrograms (bond_disbond_stft_for_cnn_15x29.zip) of the NDE signals. These data were used in recent experiments [6].
+
+## References
 
 [1] T.-H. Li (2008), "Laplace periodogram for time series analysis," Journal of the American Statistical Association, 103:482, 757-768. https://doi.org/10.1198/016214508000000265
 
