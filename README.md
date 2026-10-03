@@ -1,4 +1,4 @@
-# A Quantile-Frequency Analysis (QFA) and Spline Quantile Regression (SQR) Toolkit
+# Quantile-Frequency Analysis (QFA) & Spline Quantile Regression (SQR)
 
 Quantile-frequency analysis, or QFA, is a nonlinear spectral analysis method for time-series data  based on quantile periodograms computed from trigonometric quantile regression [1][2][3][8][9]. The QFA method, together with its extension called short-time QFA (STQFA), is able to provide a richer view of time-series data than traditional power spectra and spectrograms.
 
