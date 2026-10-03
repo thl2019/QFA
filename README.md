@@ -44,5 +44,7 @@ Spline quantile regression, or SQR, is a method of estimating the coefficients i
 
 [11] T.-H. Li (2026), "Spline quantile regression with cubic and linear smoothing splines," arXiv:2603.22408, https://doi.org/10.48550/arXiv.2603.22408
 
+## Contact
+
 For further inqueries, please contact Ta-Hsin Li (thl024@outlook.com)
 
