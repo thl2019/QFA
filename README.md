@@ -6,7 +6,7 @@ Spline quantile regression, or SQR, is a method of estimating the coefficients i
 
 ## Content
 
-- This repo contains an installable R package qfa_x.x.tar.gz and the associated manual qfa_x.x.pdf. The 'qfa' package is also available at https://cran.r-project.org/.
+- This repo contains an R package qfa_x.x.tar.gz for download with the associated manual qfa_x.x.pdf. The 'qfa' package is also available at https://cran.r-project.org/.
 
   In R console: install.packages("path_to_the_downloaded_package_on_your_computer/qfa_x.x.tar.gz", repos = NULL, type = "source")
 
