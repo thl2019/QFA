@@ -4,7 +4,7 @@ Quantile-frequency analysis, or QFA, is a nonlinear spectral analysis method for
 
 Spline quantile regression, or SQR, is a method of estimating the coefficients in linear quantile regression as smooth functions of the quantile level by linear and quadratic programming [10][11]. Based on linear and cubic splines, the SQR method provides a global view of the conditional quantile function which extends the isolated view at a specific quantile offered by traditional quantile regression.
 
-## Content
+## Contents
 
 - This repo contains an R package qfa_x.x.tar.gz for download with the associated manual qfa_x.x.pdf. The package is also available at https://cran.r-project.org/ by the name of 'qfa'.
 
@@ -29,13 +29,13 @@ Preprints of the following articles can be found in the references/ directory.
 
 [1] T.-H. Li (2008), "Laplace periodogram for time series analysis," Journal of the American Statistical Association, 103:482, 757-768. https://doi.org/10.1198/016214508000000265
 
-[2] T.-H. Li (2012), "Quantile periodograms", Journal of the American Statistical Association, 107:498, 765-776. http://dx.doi.org/10.1080/01621459.2012.682815
+[2] T.-H. Li (2012), "Quantile periodograms," Journal of the American Statistical Association, 107:498, 765-776. http://dx.doi.org/10.1080/01621459.2012.682815
 
 [3] T.-H. Li (2014), Time Series with Mixed Spectra, CRC Press. https://doi.org/10.1201/b15154
 
-[4] T.-H. Li (2020), "From zero crossings to quantile-frequency analysis of time series with an application to nondestructive evaluation", Applied Stochastic Models for Business and Industry, 36:6, 1111-1130. https://doi.org/10.1002/asmb.2499
+[4] T.-H. Li (2020), "From zero crossings to quantile-frequency analysis of time series with an application to nondestructive evaluation," Applied Stochastic Models for Business and Industry, 36:6, 1111-1130. https://doi.org/10.1002/asmb.2499
 
-[5] T. Chen, Y. Sun, and T.-H. Li (2021), "A semi-parametric estimation method for the quantile spectrum with an application to earthquake classification using convolutional neural network", Computational Statistics and Data Analysis, 153, 107069. https://doi.org/10.1016/j.csda.2020.107069
+[5] T. Chen, Y. Sun, and T.-H. Li (2021), "A semi-parametric estimation method for the quantile spectrum with an application to earthquake classification using convolutional neural network," Computational Statistics and Data Analysis, 153, 107069. https://doi.org/10.1016/j.csda.2020.107069
 
 [6] T.-H. Li (2023), "Quantile-frequency analysis and deep learning for signal classification," Journal of Nondestructive Evaluation, 42, 40. https://doi.org/10.1007/s10921-023-00952-y
 
